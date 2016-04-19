@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'On a Sunday in early March I chose to surprise my kids and take them to the movies. Some of you may think what a boring idea this is, but let me tell you why this was very exciting for both my kids and me.'
-datePublished: '2016-04-19T21:50:47.293Z'
-dateModified: '2016-04-19T21:50:45.531Z'
+datePublished: '2016-04-19T22:02:20.315Z'
+dateModified: '2016-04-19T22:01:11.560Z'
 title: Fear is your only enemy
 author: []
 sourcePath: _posts/2016-04-18-fear-is-your-only-enemy.md
@@ -22,9 +22,8 @@ url: fear-is-your-only-enemy/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/424edd0d-1bec-4135-8afc-297adfa255a2.jpg)
-
 # Fear is your only enemy
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/424edd0d-1bec-4135-8afc-297adfa255a2.jpg)
 
 ## What you can learn from your kids
 
